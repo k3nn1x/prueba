@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 use 5.010;
 use strict;
 use warnings;
@@ -9,3 +10,8 @@ my $num2= <STDIN>;
 chomp $num2;
 my $total = $num1+$num2;
 say "El Total es: $total";
+
+
+
+
+
